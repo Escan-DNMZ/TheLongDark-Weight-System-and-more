@@ -5,4 +5,6 @@ Aldığın geliştirme item'ı olan küpleri kullandığınızda karakterin maks
 
 Karakter hızı ve maksimum ağırlığımız orantılı olduğundan dolayı toplam ağırlığımız 100 fakat maksimum ağırlığımız 200 ise karakterimizin hızı %50 kadar düşürüyor. Eğer maksimum ağırlığımızı 400'e artırırsak ve toplam ağırlığımız 100 kalırsa, bu sefer hızımızın sadece %25 kadar düşecek. Not: Bu yüzdeler farazi dir, görünen prototipte değerler farklıdır.
 
+https://s2.dosya.tc/server29/pv7gqa/InventoryPractice.rar.html
+
 https://youtu.be/emuOULvLBQk
